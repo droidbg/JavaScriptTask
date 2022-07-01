@@ -1,4 +1,4 @@
-# JavaScriptTask
+# [JavaScript Solution](https://droidbg.github.io/JavaScriptTask/)
 Custom logics for the following functions without using the inbuilt functions.
 1. map
 2. filter
@@ -8,4 +8,4 @@ Custom logics for the following functions without using the inbuilt functions.
 Each of the above function takes 2 parameters. 
 A list of numbers/strings and a callback function that gets executed on the list.
 
-- [JavaScript Task Page](https://droidbg.github.io/JavaScriptTask/), Check this page for implementaions and details for each function. 
+[JavaScript Task Page](https://droidbg.github.io/JavaScriptTask/), Check this page for implementaions and details for each function. 
